@@ -4,7 +4,6 @@
 
 <b>P.S.</b> This project has been developed for learning purposes, and it has nothing to do with the original Application.
 
-![](https://raw.githubusercontent.com/Subhampreet/Instagram-Clone-ReactJS/main/public/images/screencapture.png)
 
 ### Features : 
 - User Authentication : Sign In and Sign Up
@@ -16,11 +15,3 @@
 
 <b>For Creating a Post</b> you need to sign-in first. Then click the "UPLOAD PHOTO" Button. Select a Photo from your device, add a suitable caption to the Post, and then click "CREATE POST" Button. Wait till the photo gets uploaded. And then BOOM!!! Your Post has been created(Scroll a bit if you don't find your post at the top).
 
-#### Hope you have a great time, exploring the application in and out ✌ !!!
-
-[Instagram Clone](https://instagram-clone-react-70113.web.app)
-
-## Referances
-
-- [Clever Programmer - Instagram Clone](https://www.youtube.com/watch?v=f7T48W0cwXM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=4)
-- [Image Uploader App using Firebase](https://www.youtube.com/watch?v=34f_SO7SWVA)
